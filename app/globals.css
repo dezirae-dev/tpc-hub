@@ -55,3 +55,19 @@ input,textarea,select{font:400 14px Montserrat,sans-serif;background:var(--bg);c
 .msg.u{background:var(--panel);align-self:flex-end}.msg.a{background:var(--card);border:1px solid var(--line)}
 .bars{display:flex;align-items:flex-end;gap:4px;height:90px}.bars i{flex:1;background:var(--accent);border-radius:3px 3px 0 0;min-height:2px}
 #toast{position:fixed;right:16px;bottom:16px;background:var(--fg);color:var(--bg);padding:10px 16px;border-radius:8px;z-index:50;font-size:14px}
+.bsbar{display:flex;flex-direction:column;gap:10px}
+.bsclaude{gap:12px}
+.bigbtn{font-size:16px;padding:14px 26px;border-radius:10px}
+.bigbtn.alt{background:transparent;color:var(--fg);border:1px solid var(--fg)}
+.menu{position:absolute;top:100%;left:0;margin-top:6px;z-index:20;background:var(--card);border:1px solid var(--line);border-radius:10px;min-width:260px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.15)}
+.menu button{display:flex;flex-direction:column;align-items:flex-start;gap:2px;width:100%;background:transparent;color:var(--fg);border:0;border-radius:0;padding:11px 14px;text-align:left}
+.menu button:hover{background:var(--panel)}.menu span{font-size:12px;color:var(--muted)}
+.wb{height:62vh;min-height:420px;overflow:auto;border:1px solid var(--line);border-radius:12px;background-color:var(--card);background-image:radial-gradient(var(--line) 1px,transparent 1px);background-size:22px 22px;touch-action:pan-x pan-y}
+.wbin{position:relative;width:2600px;height:1800px}
+.st{position:absolute;width:196px;border-radius:4px;padding:8px 10px 10px;box-shadow:0 2px 8px rgba(0,0,0,.14);color:#1C1B19;cursor:grab;touch-action:none}
+.st:active{cursor:grabbing}
+.sth{display:flex;justify-content:space-between;align-items:center;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#5b5143;margin-bottom:4px;gap:6px}
+.st textarea{width:100%;background:transparent;border:0;outline:0;resize:none;font:14px/1.35 Montserrat,sans-serif;color:#1C1B19;padding:0}
+.x{background:transparent;color:#5b5143;border:0;padding:0 5px;font-size:16px;line-height:1;cursor:pointer}
+.lab{position:absolute;display:flex;align-items:center;cursor:grab;touch-action:none}
+.lab input{font:400 22px "Gilda Display",serif;background:transparent;border:0;outline:0;color:var(--fg);width:260px}
