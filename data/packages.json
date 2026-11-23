@@ -1,0 +1,1617 @@
+[
+ {
+  "adId": "120251331826950167",
+  "adset": "West Palm Beach",
+  "campaign": "Palm Beach County",
+  "cards": [],
+  "copy": [],
+  "created": "2026-11-13",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-11-13",
+  "metaAds": [
+   {
+    "adId": "120251331826950167",
+    "label": "A"
+   }
+  ],
+  "previews": [],
+  "rev": 1,
+  "state": "active",
+  "stateNote": "Jordana The Florida Broker ad account. Live in Meta.",
+  "stats": {
+   "asOf": "2026-11-13",
+   "leads": 0,
+   "spend": 19.98
+  },
+  "summary": "Palm Beach County \u203a West Palm Beach. Olara, Leads objective.",
+  "title": "Olara",
+  "id": "ad-120251331826950167"
+ },
+ {
+  "adId": "120251337361130167",
+  "adset": "West Palm Beach",
+  "campaign": "Palm Beach County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Free guide, email only",
+    "headline": "Free South Flagler Guide",
+    "label": "A",
+    "primary": "Considering new construction on South Flagler? Get the free guide.\n\nA clear look at the new developments along South Flagler Drive. Enter your email and it's yours."
+   }
+  ],
+  "created": "2026-11-13",
+  "creatives": [],
+  "destination": {
+   "kind": "Instant form, then South Flagler market report",
+   "url": "https://www.floridaluxurycondos.com/reports/south-flagler-drive"
+  },
+  "form": {
+   "name": "South Flagler Guide - General Inquiry",
+   "questions": []
+  },
+  "imported": true,
+  "liveAt": "2026-11-13",
+  "metaAds": [
+   {
+    "adId": "120251337361130167",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/1TB82diP5vFD2X7"
+   }
+  ],
+  "rev": 1,
+  "state": "active",
+  "stateNote": "Approved and live in Meta (Jordana The Florida Broker ad account). CTA Download.",
+  "stats": {
+   "asOf": "2026-11-13",
+   "leads": 0,
+   "spend": 11.77
+  },
+  "summary": "Palm Beach County \u203a West Palm Beach. Free South Flagler guide, image ad (4:5 and 9:16).",
+  "title": "South Flagler Guide",
+  "id": "ad-120251337361130167"
+ },
+ {
+  "adId": "120251338925030167",
+  "adset": "Fort Lauderdale",
+  "budget": "$50/day (campaign level)",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Fort Lauderdale new builds | Schedule a private tour",
+    "headline": "Four blocks from Las Olas.",
+    "label": "A",
+    "primary": "Not on the sand, but your beach chair is still waiting. \ud83c\udfd6\ufe0f\nThe building is roughly 2.5 miles from the beach, and owners get a designated area with chairs and umbrellas set up by staff.\nIt's also about four blocks from Las Olas, with a hotel-style concierge program on site. Some services carry additional fees.\nTap to schedule a private tour. As licensed market advisors with Premier Listings, we represent your interests as the buyer."
+   }
+  ],
+  "created": "2026-11-13",
+  "creatives": [],
+  "destination": {
+   "kind": "Instant form",
+   "url": "https://www.floridaluxurycondos.com/developments/viceroy-residences-fort-lauderdale"
+  },
+  "form": {
+   "name": "Viceroy General Inquiry",
+   "questions": []
+  },
+  "imported": true,
+  "liveAt": "2026-11-13",
+  "metaAds": [
+   {
+    "adId": "120251338925030167",
+    "label": "A"
+   }
+  ],
+  "previews": [],
+  "rev": 1,
+  "state": "active",
+  "stateNote": "Jordana The Florida Broker ad account. Live in Meta. CTA See details.",
+  "stats": {
+   "asOf": "2026-11-13",
+   "leads": 0,
+   "spend": 0
+  },
+  "summary": "Broward County \u203a Fort Lauderdale. Viceroy reel (video ad).",
+  "title": "Viceroy",
+  "id": "ad-120251338925030167"
+ },
+ {
+  "adId": "120252248945750671",
+  "adset": "West Palm Beach",
+  "campaign": "Palm Beach County",
+  "cards": [],
+  "copy": [],
+  "created": "2026-10-15",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-15",
+  "metaAds": [
+   {
+    "adId": "120252248945750671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/1TXnl9j0EbegxLn"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "Catalog-style dynamic ad (name pulled from the catalog), so there is no fixed copy.",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 18,
+   "spend": 1602.25
+  },
+  "summary": "Palm Beach County \u203a West Palm Beach. Single image ad.",
+  "title": "Banyan Tree Residences",
+  "id": "ad-120252248945750671"
+ },
+ {
+  "adId": "120252319091300671",
+  "adset": "West Palm Beach",
+  "campaign": "Palm Beach County",
+  "cards": [
+   {
+    "description": "Two- to four-bedroom residences with terraces 10 feet deep. Starting at $2M. Find the layout that fits how you live.",
+    "name": "Your own marina access and dinner is downstairs"
+   },
+   {
+    "description": "About 80,000 sq ft of amenities across 275 residences on the water.",
+    "name": "Delivering 2028 From About $2M On The Water"
+   },
+   {
+    "description": "About 80,000 sq ft of amenities across 275 residences, planned for 2028 delivery from Savanna.",
+    "name": "Schedule a private tour of Olara Residences."
+   },
+   {
+    "description": "A Jos\u00e9 Andr\u00e9s restaurant, in the building. Olara Residences also plans an epicurean grocery, so dinner and the essentials are downstairs.",
+    "name": "Marina, Wellness, 80K SF Amenities"
+   },
+   {
+    "description": "A 13,000 sq ft indoor/outdoor gym, instructor-led classes and personal trainers, all inside Olara Residences.",
+    "name": "Schedule a private tour to see the wellness spaces."
+   },
+   {
+    "description": "Two- to four-bedroom residences with terraces 10 feet deep, facing east, west or to the side. See which layout fits how you live.",
+    "name": "Get floor plans and availability for Olara Residences."
+   }
+  ],
+  "copy": [
+   {
+    "description": "",
+    "headline": "The Premier Connection",
+    "label": "A",
+    "primary": "Dinner downstairs, a private marina and a wellness center, on the water in West Palm Beach. Residences start around $1.7M, with delivery set for 2028.\n\nBefore you visit the sales gallery, let's have a conversation. We'll tell you what they won't, and our representation costs you nothing.\n\nSchedule a private tour or just reach out to learn more."
+   }
+  ],
+  "created": "2026-10-20",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-20",
+  "metaAds": [
+   {
+    "adId": "120252319091300671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/2bGlaLhC8SukQIW"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 1,
+   "spend": 286.95
+  },
+  "summary": "Palm Beach County \u203a West Palm Beach. Carousel ad, 6 cards.",
+  "title": "Olara",
+  "id": "ad-120252319091300671"
+ },
+ {
+  "adId": "120252372920820671",
+  "adset": "Fort Lauderdale {NY|NJ}",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Independent of every developer. No obligation.",
+    "headline": "Mr. C Residences: Before You Buy",
+    "label": "A",
+    "primary": "Considering Mr. C Residences? Register with an independent advisor before your first sales gallery visit."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252372920820671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/2dco6HejAolUohz"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 1,
+   "spend": 24.26
+  },
+  "summary": "Broward County \u203a Fort Lauderdale {NY|NJ}. Single image ad.",
+  "title": "Mr. C Residences",
+  "id": "ad-120252372920820671"
+ },
+ {
+  "adId": "120252373647980671",
+  "adset": "Fort Lauderdale",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Independent. No obligation.",
+    "headline": "Every home is a corner home.",
+    "label": "A",
+    "primary": "Register through an independent advisor before your first sales gallery visit, and get it confirmed in writing. Banyan Tree Residences, Downtown West Palm Beach. Artist's renderings. Equal Housing Opportunity."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252373647980671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/2bYmL9JRKYwSmiV"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 0,
+   "spend": 25.2
+  },
+  "summary": "Broward County \u203a Fort Lauderdale. Single image ad.",
+  "title": "Banyan Tree Residences",
+  "id": "ad-120252373647980671"
+ },
+ {
+  "adId": "120252373648340671",
+  "adset": "Fort Lauderdale {NY|NJ}",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Independent. No obligation.",
+    "headline": "Every home is a corner home.",
+    "label": "A",
+    "primary": "Register through an independent advisor before your first sales gallery visit, and get it confirmed in writing. Banyan Tree Residences, Downtown West Palm Beach. Artist's renderings. Equal Housing Opportunity."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252373648340671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/2bqFrDywr3fVFy3"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 6,
+   "spend": 412.35
+  },
+  "summary": "Broward County \u203a Fort Lauderdale {NY|NJ}. Single image ad.",
+  "title": "Banyan Tree Residences",
+  "id": "ad-120252373648340671"
+ },
+ {
+  "adId": "120252374429130671",
+  "adset": "Fort Lauderdale {NY|NJ}",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Tour with your own advisor",
+    "headline": "Viceroy Residences Fort Lauderdale",
+    "label": "A",
+    "primary": "A members club and h.wood Group restaurant inside the tower. Viceroy Residences Fort Lauderdale is a Naftali Group tower with interiors by Rockwell Group.\n\nRegister with an independent advisor before your first sales gallery visit and get it confirmed in writing. The Premier Connection represents you and protects your interests.\n\nPick a time to tour the sales gallery."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252374429130671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/28t9RYfx9okwk7y"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "Ad is on, but its ad set (Fort Lauderdale {NY|NJ}) is paused.",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 5,
+   "spend": 168.27
+  },
+  "summary": "Broward County \u203a Fort Lauderdale {NY|NJ}. Single image ad.",
+  "title": "Viceroy FTL",
+  "id": "ad-120252374429130671"
+ },
+ {
+  "adId": "120252374429160671",
+  "adset": "Fort Lauderdale",
+  "campaign": "Broward County",
+  "cards": [
+   {
+    "description": "One-bedrooms in this Fort Lauderdale tower start at $760K. That includes a private beach club, a members club in the building and hotel-style service, with completion set for the end of 2028.  Before you visit the sales gallery, talk to us. We'll share what the sales team won't, and our representation costs you nothing.  Schedule a private tour or just reach out to learn more.",
+    "name": "Pools, Beach Club, Downtown, Starting at $760k"
+   },
+   {
+    "description": "A private pool on your own terrace, in the middle of downtown Fort Lauderdale. These penthouses also come with a private beach club and hotel-style service.  Get an advisor on your side before you tour. We represent you, not the developer, and it costs you nothing.  Ask for the private tour.",
+    "name": "One-Bedrooms From $760K"
+   },
+   {
+    "description": "Buying new construction? The sales team works for the seller. We work for you.  This new Fort Lauderdale tower has a private beach club, a members club and one-bedrooms from $760K. Tell us what you want and we'll walk you through the floor plans, the real costs and the timeline before you ever sign.  Reach out and we'll set up your private tour.",
+    "name": "Penthouses With Private Pools"
+   },
+   {
+    "description": " ",
+    "name": "Completion is set for the end of 2028, and early buyers get first pick of floors, views and layouts.  One-bedrooms start at $760K, with a private beach club, a members club and hotel-style service in downtown Fort Lauderdale. Register with us first and we'll put your name in front of the sales team at no cost to you.  Book a private tour today."
+   },
+   {
+    "description": "Tour with a market advisor before they sell out",
+    "name": "Beach Club. Downtown. $760K."
+   },
+   {
+    "description": "Have a confidential conversation.",
+    "name": "Downtown Fort Lauderdale New Construction"
+   },
+   {
+    "description": "Get your questions answered, no cost to you",
+    "name": "Have a confidential conversation."
+   },
+   {
+    "description": "Get your questions answered today with a local market advisor.",
+    "name": "We represent you, not the developer."
+   }
+  ],
+  "copy": [
+   {
+    "description": "Tour with your own advisor",
+    "headline": "The Premier Connection",
+    "label": "A",
+    "primary": "Penthouses with private terrace pools, a downtown location AND a private beach club, what more could you ask for? One-bedrooms at Viceroy Residences in Fort Lauderdale start at $760K, with completion set for the end of 2028.\n\nBefore you visit the sales gallery, let's have a conversation. We'll tell you everything they won't, and our representation costs you nothing. We protect your interests, not the developer\u2019s.\n\nSchedule a private tour or just reach out to learn more."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252374429160671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/1WCUluHTyRpQcSL"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 0,
+   "spend": 105.94
+  },
+  "summary": "Broward County \u203a Fort Lauderdale. Carousel ad, 8 cards.",
+  "title": "Viceroy FTL",
+  "id": "ad-120252374429160671"
+ },
+ {
+  "adId": "120252375017160671",
+  "adset": "Fort Lauderdale",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Fort Lauderdale new construction",
+    "headline": "Andare Residences by Pininfarina",
+    "label": "A",
+    "primary": "Andare Residences by Pininfarina is now under construction on Las Olas in Fort Lauderdale. Register with an independent advisor before your first sales gallery visit. An advisor represents you and protects your interests."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252375017160671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/2gvrn0FirEozhBk"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 1,
+   "spend": 3.55
+  },
+  "summary": "Broward County \u203a Fort Lauderdale. Single image ad.",
+  "title": "Andare Residences",
+  "id": "ad-120252375017160671"
+ },
+ {
+  "adId": "120252375017180671",
+  "adset": "Fort Lauderdale {NY|NJ}",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Fort Lauderdale new construction",
+    "headline": "Andare Residences by Pininfarina",
+    "label": "A",
+    "primary": "Andare Residences by Pininfarina is now under construction on Las Olas in Fort Lauderdale. Register with an independent advisor before your first sales gallery visit. An advisor represents you and protects your interests."
+   }
+  ],
+  "created": "2026-10-23",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-23",
+  "metaAds": [
+   {
+    "adId": "120252375017180671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/24oO6TV9U7ULzOI"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 3,
+   "spend": 57.59
+  },
+  "summary": "Broward County \u203a Fort Lauderdale {NY|NJ}. Single image ad.",
+  "title": "Andare Residences",
+  "id": "ad-120252375017180671"
+ },
+ {
+  "adId": "120252382215920671",
+  "adset": "Fort Lauderdale",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Independent. No obligation.",
+    "headline": "Intracoastal access",
+    "label": "A",
+    "primary": "Register through an independent advisor before your first sales gallery visit and get it confirmed in writing. Your advisor represents you and protects your interests.\n\nShorecrest, North Flagler Drive, West Palm Beach: 98 residences across 28 floors, with a rooftop pool deck, spa and direct Intracoastal access.\n\nFrom $2.7M*\n\nArtist's renderings. Equal Housing Opportunity.\n\n*Starting price as of October 2026. Subject to change."
+   }
+  ],
+  "created": "2026-10-24",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-24",
+  "metaAds": [
+   {
+    "adId": "120252382215920671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/23KLhExtcsxVcli"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 0,
+   "spend": 0
+  },
+  "summary": "Broward County \u203a Fort Lauderdale. Single image ad.",
+  "title": "Shorecrest",
+  "id": "ad-120252382215920671"
+ },
+ {
+  "adId": "120252382216110671",
+  "adset": "Fort Lauderdale {NY|NJ}",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Independent. No obligation.",
+    "headline": "Intracoastal access",
+    "label": "A",
+    "primary": "Register through an independent advisor before your first sales gallery visit and get it confirmed in writing. Your advisor represents you and protects your interests.\n\nShorecrest, North Flagler Drive, West Palm Beach: 98 residences across 28 floors, with a rooftop pool deck, spa and direct Intracoastal access.\n\nFrom $2.7M*\n\nArtist's renderings. Equal Housing Opportunity.\n\n*Starting price as of October 2026. Subject to change."
+   }
+  ],
+  "created": "2026-10-24",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-24",
+  "metaAds": [
+   {
+    "adId": "120252382216110671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/1XFRxSA7kxO6G2y"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 0,
+   "spend": 0
+  },
+  "summary": "Broward County \u203a Fort Lauderdale {NY|NJ}. Single image ad.",
+  "title": "Shorecrest",
+  "id": "ad-120252382216110671"
+ },
+ {
+  "adId": "120252444693700671",
+  "adset": "Jordana's Reels",
+  "campaign": "Jordana Videos",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Licensed market advisors",
+    "headline": "4 questions before you reserve",
+    "label": "A",
+    "primary": "Is a branded condo worth the premium? Take the brand name off the building. Would you still buy it?\n\nIf yes, the premium may be justified. If not, you\u2019re paying for the name. Before you reserve, I\u2019ll walk you through who runs the building, what the HOA covers and what costs extra.\n\nSend me a message and I\u2019ll get you started.\n\nJordana Tobel, Premier Listings\nThe Premier Connection, a Premier Listings division. Licensed market advisors."
+   }
+  ],
+  "created": "2026-10-28",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-10-28",
+  "metaAds": [
+   {
+    "adId": "120252444693700671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/27BwsByVaucs89I"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 15,
+   "spend": 554.17
+  },
+  "summary": "Jordana Videos \u203a Jordana's Reels. Video ad.",
+  "title": "Branded Condo Premiums",
+  "id": "ad-120252444693700671"
+ },
+ {
+  "adId": "120252604213860671",
+  "adset": "Fort Lauderdale",
+  "campaign": "Broward Equity Owners",
+  "cards": [],
+  "copy": [
+   {
+    "description": "",
+    "headline": "",
+    "label": "A",
+    "primary": "Hey, empty nesters: your kids moved out. Why haven't you? \ud83d\udd11\n\nYou've got three-plus bedrooms, and somehow you've become the property manager. Maybe the next chapter needs fewer empty bedrooms and better dinner plans.\n\n3000 Waterside is a collection of 129 residences in an 18-story tower on Fort Lauderdale's Intracoastal, with two to four bedrooms and 1,613 to 2,646 interior square feet. There's a resort-style pool and spa, a fitness center with a yoga studio, a 19th-floor rooftop with fire pits, and a waterside restaurant. \ud83c\udf7d\ufe0f\n\nPricing starts at $990,000 and goes up to $3.4M, per the sales team as of November 2026, subject to change.\n\nOne thing to point out: the unit you choose matters. There are certain units in certain stacks I would highly recommend and others I would probably avoid.\n\nFor a private conversation about which ones and why, comment 3000 or send me a DM."
+   }
+  ],
+  "created": "2026-11-05",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-11-05",
+  "metaAds": [
+   {
+    "adId": "120252604213860671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/23hJedN9EqfvUIW"
+   }
+  ],
+  "rev": 1,
+  "state": "active",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 0,
+   "spend": 17.37
+  },
+  "summary": "Broward Equity Owners \u203a Fort Lauderdale. Video ad.",
+  "title": "3000 Waterside",
+  "id": "ad-120252604213860671"
+ },
+ {
+  "adId": "120252622648520671",
+  "adset": "Fort Lauderdale",
+  "campaign": "Broward County",
+  "cards": [],
+  "copy": [
+   {
+    "description": "Licensed market advisors",
+    "headline": "4 questions before you reserve",
+    "label": "A",
+    "primary": "Is a branded condo worth the premium? Take the brand name off the building. Would you still buy it?\n\nIf yes, the premium may be justified. If not, you\u2019re paying for the name. Before you reserve, I\u2019ll walk you through who runs the building, what the HOA covers and what costs extra.\n\nSend me a message and I\u2019ll get you started.\n\nJordana Tobel, Premier Listings\nThe Premier Connection, a Premier Listings division. Licensed market advisors."
+   }
+  ],
+  "created": "2026-11-06",
+  "creatives": [],
+  "imported": true,
+  "liveAt": "2026-11-06",
+  "metaAds": [
+   {
+    "adId": "120252622648520671",
+    "label": "A"
+   }
+  ],
+  "previews": [
+   {
+    "label": "Open ad preview",
+    "url": "https://fb.me/26k1SCCuUysPvUY"
+   }
+  ],
+  "rev": 1,
+  "state": "inactive",
+  "stateNote": "",
+  "stats": {
+   "asOf": "2026-11-10",
+   "leads": 6,
+   "spend": 127.42
+  },
+  "summary": "Broward County \u203a Fort Lauderdale. Video ad.",
+  "title": "Branded Condo Premiums",
+  "id": "ad-120252622648520671"
+ },
+ {
+  "adset": "Fort Lauderdale and West Palm Beach (15 mile radius each, no overlap)",
+  "budget": "Proposed $33/day per ad. 7-day lead goal: 4+ leads, keeping cost per lead at or under about $60.",
+  "campaign": "Luxury Buyers (new campaign, Leads objective, Housing special ad category), Jordana The Florida Broker ad account",
+  "checks": [
+   {
+    "label": "Leads objective, ad name is the topic",
+    "note": "Ad name: Before You Tour (not tied to one development)",
+    "ok": true
+   },
+   {
+    "label": "No development named in graphics or copy",
+    "note": "Renderings are cropped so no development name shows.",
+    "ok": true
+   },
+   {
+    "label": "Hooks first",
+    "note": "All five primary texts open with a hook.",
+    "ok": true
+   },
+   {
+    "label": "No hashtags, no walk-to wording, no register-first or hedging wording",
+    "note": "",
+    "ok": true
+   },
+   {
+    "label": "Lead form questions match FORM_STANDARDS",
+    "note": "Five standard questions copied exactly from the sheet.",
+    "ok": true
+   },
+   {
+    "label": "Brokerage line and artist's rendering line on creative",
+    "note": "A Division of Premier Listings, Licensed Real Estate Broker, CQ10499564. Equal Housing Opportunity on the last card and reel.",
+    "ok": true
+   },
+   {
+    "label": "Reel web address matches the destination",
+    "note": "Reel end card types thepremierconnection.com, but the ad destination above is floridaluxurycondos.com/compare. Pick one page and confirm.",
+    "ok": false
+   },
+   {
+    "label": "Slide 3 identity line",
+    "note": "Slide 3 on the creative still says I'm Jordana with The Premier Connection; the ad copy no longer does. Keep or cut.",
+    "ok": false
+   },
+   {
+    "label": "Music licensing",
+    "note": "Track: litesaturation, Gentle Promise Echo (jazz, no-copyright library). Confirm the license allows use in paid ads.",
+    "ok": false
+   },
+   {
+    "label": "UTM tags on every link",
+    "note": "Required on all ad links. Ad URL parameters: utm_medium=paid&utm_source={{site_source_name}}&utm_id={{campaign.id}}&utm_content={{ad.id}}&utm_term={{adset.id}}&utm_campaign={{campaign.id}}. The form's View website link needs the tagged URL with this ad's real IDs. Not verified in Meta yet.",
+    "ok": false
+   },
+   {
+    "label": "Meta campaign and ads created",
+    "note": "Not built yet, by design: ads are built automatically after approval.",
+    "ok": false
+   }
+  ],
+  "copy": [
+   {
+    "description": "It costs you nothing",
+    "headline": "Talk to me before you tour",
+    "label": "A",
+    "primary": "Ready to tour a new condo building? Talk to me before you go.\n\nThe sales office works for the developer. I work for you. The developer pays my commission, so it costs you nothing.\n\nTap below and tell me the area you like. I'll set up the tours."
+   },
+   {
+    "description": "The developer pays my commission",
+    "headline": "I work for you, not the developer",
+    "label": "B",
+    "primary": "The sales office works for the developer. I work for you.\n\nI find the buildings that fit you, we tour and compare them together, and the developer pays my commission, so it costs you nothing.\n\nMake your move. Tap below and tell me the area you like."
+   },
+   {
+    "description": "Tour and compare together",
+    "headline": "Compare before you reserve",
+    "label": "C",
+    "primary": "Touring new condos at $3 million and up? Bring me along.\n\nThe sales office can only show you its own building. I help you compare the buildings that fit you, and the developer pays my commission.\n\nTap below and tell me the area you like."
+   },
+   {
+    "description": "Tell me the area you like",
+    "headline": "Tour new condos with an advocate",
+    "label": "D",
+    "primary": "Toured a building you love? Compare it to the one down the street before you reserve.\n\nI work for you, not the developer. We tour and compare the options together, and it costs you nothing.\n\nTap below and tell me the area you like."
+   },
+   {
+    "description": "The Premier Connection",
+    "headline": "Make your move",
+    "label": "E",
+    "primary": "Spending $3 million or more on a new condo? Make sure someone is on your side before the first tour.\n\nThe developer pays my commission, so you get an advocate at no cost to you.\n\nMake your move. Tap below and tell me the area you like."
+   }
+  ],
+  "created": "2026-11-20",
+  "creatives": [
+   {
+    "label": "Reel, 9:16, 21s, with music",
+    "type": "video",
+    "url": "/assets/46d3f37a792ff302d7de97d3425971dd.mp4"
+   },
+   {
+    "label": "Carousel card 1, 4:5",
+    "type": "image",
+    "url": "/assets/f002bf850be296017ed98dcbc87b6d1c.jpg"
+   },
+   {
+    "label": "Carousel card 2, 4:5",
+    "type": "image",
+    "url": "/assets/d7093989617555f2183a862c5bb0d477.jpg"
+   },
+   {
+    "label": "Carousel card 3, 4:5",
+    "type": "image",
+    "url": "/assets/94c7e49ca87ebc3f3f3fec6f7a6b6933.jpg"
+   },
+   {
+    "label": "Carousel card 4, 4:5",
+    "type": "image",
+    "url": "/assets/a0f119aec36117913f695b816e5d2f43.jpg"
+   },
+   {
+    "label": "Carousel card 5, 4:5",
+    "type": "image",
+    "url": "/assets/ab52013a693071e19fd8247b81329937.jpg"
+   }
+  ],
+  "destination": {
+   "kind": "Instant form, then compare page",
+   "url": "https://www.floridaluxurycondos.com/compare?utm_medium=paid&utm_source={{site_source_name}}&utm_id={{campaign.id}}&utm_content={{ad.id}}&utm_term={{adset.id}}&utm_campaign={{campaign.id}}"
+  },
+  "form": {
+   "name": "Before You Tour General Inquiry",
+   "questions": [
+    {
+     "lands": "Note line TPC Lead",
+     "q": "Full Name"
+    },
+    {
+     "lands": "Tag",
+     "q": "Which Area Would You Like To Be In"
+    },
+    {
+     "lands": "Tag and note (Timeline)",
+     "q": "How Soon Are You Looking To Make A Move"
+    },
+    {
+     "lands": "Note line Budget",
+     "q": "What Is Your Budget Range"
+    },
+    {
+     "lands": "Note line More info",
+     "q": "We Can Help Match You With Other New Development Buildings In The Area Tell Us More About What You Need Area Amenities Nearby Lifestyle Etc"
+    }
+   ]
+  },
+  "previews": [],
+  "rev": 1,
+  "summary": "A 21-second vertical reel and a 5-card carousel for buyers about to tour new condo buildings. Hook: Ready to tour a new condo building? Talk to me before you go. Then: the sales office works for the developer, I work for you (the developer pays my commission, so it costs you nothing), I find the buildings that fit you and we tour and compare them together. Ends on Make your move with a typed web address (thepremierconnection.com) in the reel and Tap below and tell me the area you like in the carousel. No development named. Jordana stays on screen the whole reel; music is a licensed-free jazz track.",
+  "title": "Before You Tour",
+  "id": "pkg-before-you-tour"
+ },
+ {
+  "adset": "West Palm Beach",
+  "blockedNote": "Approved by Jordana Tobel (rev 1) but not built in Meta (2026-11-20). Open checks: development named in video, starting price, HOA figure; no destination/UTM URL. Dezirae notified in Slack.",
+  "budget": "Proposed $33/day. 7-day spend $231. 7-day lead goal: 4+ leads (about $58 per lead, at or under about $60). Run from the Jordana The Florida Broker ad account, Leads objective.",
+  "campaign": "Palm Beach County",
+  "checks": [
+   {
+    "label": "Leads objective, ad name is the building name",
+    "note": "Ad name: Olara",
+    "ok": true
+   },
+   {
+    "label": "Development not named in visible text",
+    "note": "Ad copy and hooks do not name it, but the video's captions, audio and end card say Olara. Decide if that is OK for this ad.",
+    "ok": false
+   },
+   {
+    "label": "Starting price included",
+    "note": "Not in the copy. Existing Olara ads show both about $1.7M and $2M, so confirm the current dated starting price first.",
+    "ok": false
+   },
+   {
+    "label": "HOA figure verified",
+    "note": "$1.13 per sq ft is the sales team's projected quote from the video. Confirm before launch.",
+    "ok": false
+   },
+   {
+    "label": "No hashtags, no walk-to wording, no register-first wording",
+    "note": "",
+    "ok": true
+   },
+   {
+    "label": "Brokerage line on end card",
+    "note": "A Division of Premier Listings, Licensed Real Estate Broker, CQ10499564",
+    "ok": true
+   },
+   {
+    "label": "Lead form wording matches FORM_STANDARDS",
+    "note": "Three questions copied exactly from the sheet",
+    "ok": true
+   },
+   {
+    "label": "Meta ads created (paused)",
+    "note": "Not yet in Meta. Approval will not activate anything until the ads exist.",
+    "ok": false
+   }
+  ],
+  "copy": [
+   {
+    "description": "West Palm Beach Waterfront",
+    "headline": "A Michelin Chef Downstairs",
+    "label": "A",
+    "primary": "A Michelin-starred chef is bringing his first Palm Beaches restaurant to the West Palm Beach waterfront. In the same building you'd live in.\n\nAn 8,500 sq ft indoor-outdoor restaurant, a gourmet marketplace, a dockside oyster bar and a juice bar. Prefer to stay in? Have it all delivered to your residence.\n\nSchedule a private tour with The Premier Connection."
+   },
+   {
+    "description": "Schedule a private tour",
+    "headline": "Private Marina, Captained Boats",
+    "label": "B",
+    "primary": "A private marina, two boats and a captain are part of the amenity list at this West Palm Beach new development.\n\nChoose a fishing boat or a cruising yacht and plan a day on the water. Back on land: over 80,000 sq ft of amenities, two pools and a full spa.\n\nTour it with a specialist who represents your interests. Schedule a private tour with The Premier Connection."
+   },
+   {
+    "description": "80,000+ sq ft of amenities",
+    "headline": "Resort Living, Minus the Hotel",
+    "label": "C",
+    "primary": "A five-star resort feel, without the hotel. That's the idea behind this West Palm Beach waterfront building.\n\nA 13,000 sq ft fitness and wellness center, Pilates, yoga, trainers and instructors, with professional staff and year-round programming. Amenities built to be used.\n\nCome see how it lives. Schedule a private tour with The Premier Connection."
+   },
+   {
+    "description": "Make Your Move.",
+    "headline": "Waterfront New Construction",
+    "label": "D",
+    "primary": "What does a building with a marina, a spa and Michelin-starred dining cost per month? The projected HOA is $1.13 per sq ft.*\n\nWe'll put it side by side with other new West Palm Beach developments so you can compare before you decide.\n\nSchedule a private tour with The Premier Connection.\n\n*Projected HOA per the developer's sales team. Subject to change."
+   },
+   {
+    "description": "Tours with a local specialist",
+    "headline": "Schedule a Private Tour",
+    "label": "E",
+    "primary": "Four-bedroom residences over 4,000 sq ft, with generous terraces, on the West Palm Beach waterfront.\n\nAdd a private marina, two pools, a full spa and a restaurant from a Michelin-starred chef downstairs.\n\nSchedule a private tour with The Premier Connection."
+   }
+  ],
+  "created": "2026-11-13",
+  "creatives": [
+   {
+    "label": "Olara video ad with end card (review copy)",
+    "type": "video",
+    "url": "/assets/3400d18c302f2889eac03a23dc0fdc8b.mp4"
+   }
+  ],
+  "destination": {
+   "kind": "Instant form",
+   "url": ""
+  },
+  "form": {
+   "name": "TPC Private Tour Request",
+   "questions": [
+    {
+     "lands": "Note line TPC Lead",
+     "q": "Full Name"
+    },
+    {
+     "lands": "Note line Tour Requested",
+     "q": "When Are You Available To Tour This Residence"
+    },
+    {
+     "lands": "Tag and note (Timeline)",
+     "q": "How Soon Are You Looking To Make A Move"
+    }
+   ]
+  },
+  "previews": [],
+  "rev": 1,
+  "summary": "Single video ad (about 84s): Jordana's Olara tour reel plus a 2.6s end card with her headshot and a private tour CTA. Hooks on image: A Michelin-starred chef's first Palm Beaches restaurant, downstairs / A private marina. Two boats. A captain. / A five-star resort. Without the hotel. Angle: restaurant, marina and programmed amenities as the differentiators, with a projected monthly HOA figure as the payoff.",
+  "title": "Olara",
+  "id": "pkg-olara-video-tour"
+ },
+ {
+  "adset": "West Palm Beach",
+  "blockedNote": "Approved by df (rev 4) on 2026-11-19 with all five variations ticked. Meta ad is one draft with all five variations and still shows the old Olara video; nothing was activated. Needs v5 video swapped in, then publish/turn on. Dezirae notified in Slack 2026-11-19.",
+  "budget": "Proposed daily budget: $33. 7-day spend: $231. 7-day lead goal: at least 4 leads, which keeps cost per lead at or under about $60.",
+  "campaign": "Palm Beach County (Leads objective), Jordana The Florida Broker ad account",
+  "changesNotifiedRev": 4,
+  "checks": [
+   {
+    "label": "No building names in the video or copy",
+    "note": "Ad name only carries the building names.",
+    "ok": true
+   },
+   {
+    "label": "Hooks first",
+    "note": "All five primary texts open with a hook.",
+    "ok": true
+   },
+   {
+    "label": "Jordana's edits applied",
+    "note": "Revision 4 uses her revision 3 wording: $7 million, the sales office line, and the $7 Million, Which Tower? headline. Her unchecked description (Licensed market advisors) is dropped.",
+    "ok": true
+   },
+   {
+    "label": "Video hook matches the $7M budget",
+    "note": "Video opens with $7 million. Two new towers. One street. Which are you moving into?",
+    "ok": true
+   },
+   {
+    "label": "Price and budget claim",
+    "note": "Listed available residences are about $4.65M to $5.1M in one tower and $3.79M to $4.9M in the other (from Jordana's lead email), so $7 million is a budget, not a price. Confirm the pricing date and current inventory before launch.",
+    "ok": false
+   },
+   {
+    "label": "Completion dates",
+    "note": "Email says Q1 2028 for one tower and Q2 2028 for the other. Confirm with the developers.",
+    "ok": false
+   },
+   {
+    "label": "Amenity and HOA facts",
+    "note": "Two pools, private marina, Jos\u00e9 Andr\u00e9s restaurant, four residences per floor and the HOA figures come from Jordana's email. Confirm against developer materials.",
+    "ok": false
+   },
+   {
+    "label": "Destination matches the new call to action",
+    "note": "Ad uses the North Flagler General Inquiries instant form (copy of the Olara form). Its thank-you button links to the North Flagler report URL, tagged with UTM parameters.",
+    "ok": true
+   },
+   {
+    "label": "UTM tags on every link",
+    "note": "Required on all ad links. Ad URL parameters: utm_medium=paid&utm_source={{site_source_name}}&utm_id={{campaign.id}}&utm_content={{ad.id}}&utm_term={{adset.id}}&utm_campaign={{campaign.id}}. The form's View website button uses the tagged destination URL with this ad's real IDs. Still to be entered in Meta, then verified.",
+    "ok": false
+   },
+   {
+    "label": "Meta campaign and ads created (paused)",
+    "note": "Created as one draft ad (Olara Vs. Shorecrest, turned off) in Palm Beach County > West Palm Beach, set up like the Olara ad with all five copy variations. Still shows the Olara video: the v5 video needs to be uploaded and swapped in, then the draft published.",
+    "ok": false
+   },
+   {
+    "label": "Artist's rendering and estimate lines on screen",
+    "note": "Rendering line and the estimated pricing and HOA line appear on both tower scenes.",
+    "ok": true
+   },
+   {
+    "label": "Video end card",
+    "note": "Ends on Tour both with a Schedule a Tour button and no typed web address, so the ad button carries the link.",
+    "ok": true
+   }
+  ],
+  "copy": [
+   {
+    "description": "Downtown West Palm Beach waterfront",
+    "headline": "Which Tower Fits You?",
+    "label": "A",
+    "primary": "You have $7 million to spend in downtown West Palm Beach. Which tower should you choose?\n\nTwo new towers on the same street. One has 275 residences and a resort-style lifestyle. The other has 98 and just four residences per floor.\n\nTour both with us and see which one fits you. The sales office works for the developer, we work for you. (But the developer pays us.) Win/win.\n\n*Estimated, based on currently available residences as of Nov. 2026. Subject to change without notice."
+   },
+   {
+    "description": "Estimated HOA from $1.13 per sq ft",
+    "headline": "Compare the HOA First",
+    "label": "B",
+    "primary": "Before you fall for the view, compare what it costs to own it.\n\nMonthly HOA works out to about $1.13 per square foot in one waterfront tower and about $1.95 in the one next door. On a 2,500 sq ft residence, that gap adds up fast.\n\nWe'll show you both side by side. The sales office works for the developer, we work for you. (But the developer pays us.) Win/win.\n\n*Estimated, based on currently available residences as of Nov. 2026. Subject to change without notice."
+   },
+   {
+    "description": "Find the one that fits you best",
+    "headline": "Resort or Retreat?",
+    "label": "C",
+    "primary": "Resort or retreat?\n\nOne tower has two pools, a private marina and a Jos\u00e9 Andr\u00e9s restaurant. The other keeps it intimate, with only 98 residences and four per floor.\n\nSame street in downtown West Palm Beach. Very different ways to live. Tour both with us and decide.\n\nThe sales office works for the developer, we work for you. (But the developer pays us.) Win/win."
+   },
+   {
+    "description": "Schedule a tour of both",
+    "headline": "$7 Million, Which Tower?",
+    "label": "D",
+    "primary": "$1,721 to $2,621 per interior sq ft in one tower. $1,534 to $2,395 in the other.\n\nThe stack and floor you choose can move the price a lot, even within the same building. We'll help you find the residence that fits your budget before you commit.\n\nThe sales office works for the developer, we work for you. (But the developer pays us.) Win/win. Let us guide you through the process.\n\n*Estimated, based on currently available residences as of Nov. 2026. Subject to change without notice."
+   },
+   {
+    "description": "",
+    "headline": "Tour Both Side by Side",
+    "label": "E",
+    "primary": "Two new waterfront towers. One street. Completion estimated for 2028.\n\nMost buyers only see one before they decide. Tour both in the same visit with a Premier Connection specialist who represents you, and compare the views, floor plans and monthly costs side by side.\n\nThe sales office works for the developer, we work for you. (But the developer pays us.) Win/win."
+   }
+  ],
+  "created": "2026-11-12",
+  "creatives": [
+   {
+    "label": "Olara Vs. Shorecrest video ad v5, 9:16, 21s, with music",
+    "type": "video",
+    "url": "/assets/200278d98d98a099efaea4d9091bde9c.mp4"
+   },
+   {
+    "label": "Destination: Building Match quiz",
+    "type": "link",
+    "url": "https://www.floridaluxurycondos.com/tools/building-match"
+   }
+  ],
+  "destination": {
+   "kind": "instant form",
+   "url": "https://www.floridaluxurycondos.com/reports/north-flagler-drive?utm_medium=paid&utm_source=meta&utm_id=120251331826910167&utm_content=120251347513620167&utm_term=120251331826940167&utm_campaign=120251331826910167"
+  },
+  "metaAds": [
+   {
+    "adId": "120251347513620167",
+    "label": "Olara Vs. Shorecrest (one ad, all five copy variations, draft, off)"
+   }
+  ],
+  "rev": 4,
+  "summary": "A 21-second vertical video: opens on an aerial of downtown West Palm Beach with a callout line to the towers, then \"$7 million. Two new towers. One street. Which are you moving into?\" It compares the two neighboring towers on residences, estimated monthly HOA per sq ft, price per sq ft and lifestyle, and ends with \"Tour both. Find the one that fits you best.\" Neither building is named on screen or in the copy. Copy includes Jordana's edits from revision 3. Ad name: Olara Vs. Shorecrest.",
+  "title": "Olara Vs. Shorecrest",
+  "id": "pkg-olara-vs-shorecrest"
+ },
+ {
+  "adset": "Fort Lauderdale",
+  "budget": "$33/day per ad ($66/day for the reel and the carousel). 7-day spend $462. 7-day lead goal: 8 or more leads, keeping cost per lead at or under about $60.",
+  "campaign": "Broward County",
+  "changesNotifiedRev": 1,
+  "checks": [
+   {
+    "label": "Leads objective, ad name is the building name",
+    "note": "Ad name: Sage",
+    "ok": true
+   },
+   {
+    "label": "No development name in visible graphics or copy",
+    "note": "Source renders cropped so the logo and rendering tag do not show. Bonnet House is named as the view across the water, not the building.",
+    "ok": true
+   },
+   {
+    "label": "Hooks first, figures in the first words",
+    "note": "All five primary texts open with a hook or a figure.",
+    "ok": true
+   },
+   {
+    "label": "No hashtags, no walk-to, register-first, rebate or hedging wording",
+    "note": "No rebate or thank you credit language in this version.",
+    "ok": true
+   },
+   {
+    "label": "Every claim traced to the Sage source documents",
+    "note": "Checked against the Drive Sage folder: 200 ft frontage, 28 stories, 2 per floor, from 2,767 sq ft (June 2026 YIMBY and price sheet), 10-ft ceilings, 19,000+ sq ft amenities, summer kitchens, penthouse rooftop plunge pools, semi-private elevators and private foyers. Completion date left out because sources conflict.",
+    "ok": true
+   },
+   {
+    "label": "Protected water views wording",
+    "note": "Used in copy A, B, E. Developer's Nov 2024 release says protected in perpetuity; Jan 2026 YIMBY says protected; June 2026 YIMBY says partially protected. Get the developer's wording in writing, or swap to Water views with Bonnet House Gardens across.",
+    "ok": false
+   },
+   {
+    "label": "Starting around $3M is current",
+    "note": "Rounded from $2,975,000 on the June 4, 2026 developer price sheet. Footnote on copy A and D. Confirm the price is still current before launch.",
+    "ok": false
+   },
+   {
+    "label": "Carousel stays inside housing rules",
+    "note": "Slides use If you want... priorities, not a type of buyer.",
+    "ok": true
+   },
+   {
+    "label": "Lead form questions match FORM_STANDARDS",
+    "note": "Five standard questions copied exactly from the sheet.",
+    "ok": true
+   },
+   {
+    "label": "Brokerage line, rendering line and Equal Housing on creative",
+    "note": "A Division of Premier Listings, Licensed Real Estate Broker, CQ10499564. Artist's rendering line on every slide and the reel. Equal Housing Opportunity on the last slide and reel end card.",
+    "ok": true
+   },
+   {
+    "label": "Map is schematic",
+    "note": "Bridge position and the about 1 mile to the beach on the map are illustrative and labeled not to scale. Confirm the distance.",
+    "ok": false
+   },
+   {
+    "label": "Music licensing",
+    "note": "Track: vibemode, no-copyright music library. Confirm the license allows paid ads.",
+    "ok": false
+   },
+   {
+    "label": "UTM tags on every link",
+    "note": "Ad URL parameters: utm_medium=paid&utm_source={{site_source_name}}&utm_id={{campaign.id}}&utm_content={{ad.id}}&utm_term={{adset.id}}&utm_campaign={{campaign.id}}. Destination is the TPC home page (not floridaluxurycondos.com). The form View website link needs the tagged URL with this ad's real IDs. Not verified in Meta yet.",
+    "ok": false
+   },
+   {
+    "label": "Meta campaign and ads created (paused)",
+    "note": "Not built yet, by design: ads are built automatically after approval.",
+    "ok": false
+   }
+  ],
+  "copy": [
+   {
+    "description": "Schedule a private tour",
+    "headline": "Starting around $3M on the Intracoastal",
+    "label": "A",
+    "primary": "Protected water views. 200 feet on the Intracoastal.\n\nA new 28-story Fort Lauderdale condo with just 2 residences per floor, starting around $3M.* Homes from 2,767 square feet, 10-foot ceilings and floor-to-ceiling glass.\n\nBonnet House Museum & Gardens across the water. The beach about a mile east.\n\nSchedule a private tour below. Views vary by residence.\n\n*Starting price as of June 2026. Subject to change."
+   },
+   {
+    "description": "19,000+ sq ft of amenities",
+    "headline": "Protected water views",
+    "label": "B",
+    "primary": "2 residences per floor. 200 feet of Intracoastal.\n\nNew Fort Lauderdale waterfront, 28 stories. Private foyers, semi-private elevators and terraces with summer kitchens.\n\nProtected water views, 19,000+ square feet of wellness amenities and the beach about a mile away.\n\nSchedule a private tour below. Views vary by residence."
+   },
+   {
+    "description": "About 1 mile to the beach",
+    "headline": "2 residences per floor, 28 stories",
+    "label": "C",
+    "primary": "200 feet on the Intracoastal. Two residences per floor.\n\nA new 28-story Fort Lauderdale condo with more than 19,000 square feet of wellness amenities: spa, sauna, cold plunge, yoga lawn and a waterfront pool.\n\nTour it with an agent who represents you. The developer pays our commission. The Premier Connection is a division of Premier Listings.\n\nSchedule a private tour below."
+   },
+   {
+    "description": "Intracoastal condos",
+    "headline": "200 feet on the Intracoastal",
+    "label": "D",
+    "primary": "A mile from the beach. Right on the Intracoastal.\n\nTerraces with summer kitchens, floor-to-ceiling glass and 10-foot ceilings, in a new 28-story Fort Lauderdale condo starting around $3M.* Homes from 2,767 square feet.\n\nWant to see it in person? Schedule a private tour below. Views vary by residence.\n\n*Starting price as of June 2026. Subject to change."
+   },
+   {
+    "description": "Schedule a private tour",
+    "headline": "Homes from 2,767 sq ft",
+    "label": "E",
+    "primary": "Penthouses with rooftop plunge pools and summer kitchens.\n\nNew Fort Lauderdale waterfront, 28 stories on the Intracoastal. 2 residences per floor, homes from 2,767 square feet.\n\nProtected water views, with the beach about a mile east.\n\nSchedule a private tour below. Views vary by residence."
+   }
+  ],
+  "created": "2026-11-19",
+  "creatives": [],
+  "destination": {
+   "kind": "Instant form, then The Premier Connection home page",
+   "url": "https://www.thepremierconnection.com/?utm_medium=paid&utm_source={{site_source_name}}&utm_id={{campaign.id}}&utm_content={{ad.id}}&utm_term={{adset.id}}&utm_campaign={{campaign.id}}"
+  },
+  "form": {
+   "name": "Sage General Inquiry",
+   "questions": [
+    {
+     "lands": "Note line TPC Lead",
+     "q": "Full Name"
+    },
+    {
+     "lands": "Tag",
+     "q": "Which Area Would You Like To Be In"
+    },
+    {
+     "lands": "Tag and note (Timeline)",
+     "q": "How Soon Are You Looking To Make A Move"
+    },
+    {
+     "lands": "Note line Budget",
+     "q": "What Is Your Budget Range"
+    },
+    {
+     "lands": "Note line More info",
+     "q": "We Can Help Match You With Other New Development Buildings In The Area Tell Us More About What You Need Area Amenities Nearby Lifestyle Etc"
+    }
+   ]
+  },
+  "metaAds": [],
+  "previews": [],
+  "rev": 3,
+  "summary": "Fort Lauderdale. A 26-second vertical reel and a 10-slide carousel for the same new Intracoastal tower, Leads objective, no development name on screen or in copy. Redone from scratch after Jordana's feedback: animated text, a map showing the tower on the water, the view east over the gardens to the Atlantic, and about a mile to the beach. Hooks lead with protected water views and starting around $3M. Carousel slides open with 'If you want...' priorities (privacy, beach close, room to spread out) instead of describing a type of buyer, to stay inside Meta housing rules. No rebate or money-back language in this version. Starting price rounded from the developer price sheet dated June 4, 2026.",
+  "title": "Sage",
+  "updated": "2026-11-20",
+  "id": "pkg-sage"
+ },
+ {
+  "adset": "Fort Lauderdale new construction buyers",
+  "budget": "$33/day. 7-day spend $231. 7-day lead goal 4+ leads, keeping cost per lead at or under about $60.",
+  "campaign": "VICEROY, Leads, carousel (Jordana The Florida Broker ad account)",
+  "changesNotifiedRev": 1,
+  "checks": [
+   {
+    "label": "Development name not in visible graphics or copy",
+    "note": "Renderings cropped to avoid signage. The hero card (card 1) shows a small entrance sign that may still read the name; please look.",
+    "ok": true
+   },
+   {
+    "label": "Pricing dated and footnoted",
+    "note": "From the October 2026 availability sheet. Needs confirmation the sheet is still current.",
+    "ok": true
+   },
+   {
+    "label": "No architect, designer or gatekeeping language",
+    "note": "Offer is a call where an advisor reviews current availability.",
+    "ok": true
+   },
+   {
+    "label": "Deposit schedule",
+    "note": "Not mentioned in copy.",
+    "ok": true
+   },
+   {
+    "label": "Meta campaign and instant form created",
+    "note": "Not yet created. Will be built in the Jordana The Florida Broker account after approval.",
+    "ok": false
+   },
+   {
+    "label": "Equal Housing logo on CTA card",
+    "note": "Text line used; logo file not in the Drive folder.",
+    "ok": false
+   }
+  ],
+  "copy": [
+   {
+    "description": "Request a call",
+    "headline": "See What's Available",
+    "label": "Variation 1",
+    "primary": "What's actually available in a 500-foot Fort Lauderdale tower? 1 to 4 bedroom residences from $760,000*, with pools and cabanas, a spa suite and a boxing studio.\n\nRequest a call and a licensed advisor will go over what's currently available, including floors and exposures.\n\n*Starting price as of October 2026. Subject to change."
+   },
+   {
+    "description": "Residences from $760K*",
+    "headline": "From $760,000*",
+    "label": "Variation 2",
+    "primary": "1 bedroom from $760,000*. 2 bedroom from $1,020,000*. 3 bedroom from $2,600,000*. 4 bedroom from $3,780,000*.\n\nSwipe through the residences and amenities, then request a call. Your advisor represents you and protects your interests from the first conversation.\n\n*Starting prices as of October 2026. Subject to change."
+   },
+   {
+    "description": "Licensed advisors on call",
+    "headline": "New Fort Lauderdale Residences",
+    "label": "Variation 3",
+    "primary": "Pools with cabanas, a sauna, steam room and cold plunge, a boxing studio and a double-height atrium lounge, all inside one 500-foot Fort Lauderdale tower.\n\nSwipe to see the amenities, then request a call to find out which residences are available right now."
+   },
+   {
+    "description": "Tower living, Fort Lauderdale",
+    "headline": "1 to 4 Bedroom Residences",
+    "label": "Variation 4",
+    "primary": "Thinking about new construction in Fort Lauderdale? Know what's available before you tour.\n\nRequest a call with a licensed advisor and we'll go over current availability and what to ask before you sign."
+   },
+   {
+    "description": "See what's available",
+    "headline": "Request a Call",
+    "label": "Variation 5",
+    "primary": "Residences from $760,000* in downtown Fort Lauderdale, from 1 to 4 bedrooms.\n\nRequest a call and we'll go over what's currently available.\n\n*Starting price as of October 2026. Subject to change."
+   }
+  ],
+  "created": "2026-11-14",
+  "creatives": [],
+  "destination": {
+   "kind": "Instant form",
+   "url": ""
+  },
+  "form": {
+   "name": "VICEROY (to be built in Meta from the standard form)",
+   "questions": [
+    {
+     "lands": "Note line TPC Lead",
+     "q": "Full Name"
+    },
+    {
+     "lands": "Tag and note line Timeline",
+     "q": "How Soon Are You Looking To Make A Move"
+    },
+    {
+     "lands": "Note line Budget",
+     "q": "What Is Your Budget Range"
+    },
+    {
+     "lands": "Note line More info",
+     "q": "Is There A New Development You Are Already Interested In"
+    }
+   ]
+  },
+  "previews": [],
+  "rev": 1,
+  "summary": "10-card carousel for bottom-of-funnel Fort Lauderdale new-construction buyers. Four dated starting price points (1BR $760,000 to 4BR $3,780,000), amenities, and a 'See what's available with a licensed advisor' CTA. The offer is a call where an advisor reviews current availability; no list is sent. The development is not named in any visible graphic or copy.",
+  "title": "VICEROY",
+  "id": "pkg-viceroy-carousel"
+ },
+ {
+  "adset": "Customer list audience, built after the skip trace and upload",
+  "budget": 33,
+  "budgetPlan": {
+   "daily": 33,
+   "days": 7,
+   "impliedCpl": 57.75,
+   "minLeads7d": 4,
+   "spend7d": 231,
+   "targetCpl": 60
+  },
+  "campaign": "West Palm Equity Owners (Jordana The Florida Broker ad account, draft)",
+  "checks": [
+   {
+    "label": "Leads objective",
+    "note": "Campaign is OUTCOME_LEADS, Housing special ad category",
+    "ok": true
+   },
+   {
+    "label": "Development names",
+    "note": "Copy names none. The reel shows names on screen; approved exception.",
+    "ok": true
+   },
+   {
+    "label": "Form wording matches FORM_STANDARDS",
+    "note": "Area, timing, budget and name match. \"What matters most in your next home?\" is new, so the Zap needs updating before it lands in FUB.",
+    "ok": false
+   },
+   {
+    "label": "Facebook Page on the Jordana account",
+    "note": "Page still has to be added to the account before ads can be built",
+    "ok": false
+   },
+   {
+    "label": "Payment method on the Jordana account",
+    "note": "Dezirae is adding the card",
+    "ok": false
+   },
+   {
+    "label": "Dollar figures",
+    "note": "None available for this list ad",
+    "ok": false
+   }
+  ],
+  "copy": [
+   {
+    "description": "West Palm Beach new builds",
+    "headline": "Your NYC Neighborhood, in Florida",
+    "label": "A",
+    "primary": "Your New York neighborhood has a twin in West Palm Beach.\n\nWatch us match the Upper East Side, Tribeca, SoHo and more to new construction in West Palm Beach.\n\nThen take the quiz to find yours. It takes about a minute."
+   },
+   {
+    "description": "Matched by neighborhood",
+    "headline": "Find Your West Palm Match",
+    "label": "B",
+    "primary": "Upper East Side? Tribeca? SoHo? We found the West Palm Beach match for each.\n\nWatch us match them, then take the quiz for your shortlist. It takes about a minute."
+   },
+   {
+    "description": "Make Your Move.",
+    "headline": "Take the Quiz",
+    "label": "C",
+    "primary": "Quiet and polished? Historic charm? Waterfront with energy?\n\nThere's a West Palm Beach match for every New York neighborhood. Watch us match each one, then take the quiz to find yours. It takes about a minute."
+   }
+  ],
+  "created": "2026-11-10",
+  "creatives": [],
+  "destination": {
+   "kind": "Instant form, then South Flagler market report",
+   "url": "https://www.floridaluxurycondos.com/reports/south-flagler-drive?utm_source=meta&utm_medium=instant_form&utm_campaign=west_palm_equity_owners&utm_content=quiz"
+  },
+  "form": {
+   "name": "West Palm Equity Owners | Quiz 3",
+   "questions": [
+    {
+     "lands": "New question, not in FORM_STANDARDS yet. Zap needs updating first.",
+     "q": "What matters most in your next home?"
+    },
+    {
+     "lands": "Tag and note line Timeline",
+     "q": "How soon are you looking to make a move?"
+    },
+    {
+     "lands": "Tag",
+     "q": "Which area would you like to be in?"
+    },
+    {
+     "lands": "Note line Budget",
+     "q": "What is your budget range?"
+    },
+    {
+     "lands": "Note line TPC Lead plus standard contact fields",
+     "q": "Full name, email, phone"
+    }
+   ]
+  },
+  "rejectNotifiedRev": 1,
+  "rev": 1,
+  "stateNote": "Creative and copy are ready to review. The Meta campaign and ads follow once the Facebook Page is added to the Jordana The Florida Broker ad account and a payment method is added (Dezirae is adding the card).",
+  "summary": "Reel matching New York neighborhoods to West Palm Beach new construction, sent to the quiz form. Approved exception: the reel shows development names on screen. The file here is a small review copy; the full-quality reel goes into Meta.",
+  "title": "NYC Neighborhoods Reel",
+  "id": "pkg-wpb-equity-nyc-reel"
+ },
+ {
+  "adset": "Customer list audience, built after the skip trace and upload",
+  "budget": 33,
+  "budgetPlan": {
+   "daily": 33,
+   "days": 7,
+   "impliedCpl": 57.75,
+   "minLeads7d": 4,
+   "spend7d": 231,
+   "targetCpl": 60
+  },
+  "campaign": "West Palm Equity Owners (Jordana The Florida Broker ad account, draft)",
+  "changesNotifiedRev": 1,
+  "checks": [
+   {
+    "label": "Leads objective",
+    "note": "Campaign is OUTCOME_LEADS, Housing special ad category",
+    "ok": true
+   },
+   {
+    "label": "Development names",
+    "note": "None named in graphics or copy",
+    "ok": true
+   },
+   {
+    "label": "Form wording matches FORM_STANDARDS",
+    "note": "Area, timing, budget and name match. \"What matters most in your next home?\" is new, so the Zap needs updating before it lands in FUB.",
+    "ok": false
+   },
+   {
+    "label": "50+ developments figure",
+    "note": "Counted from the site (56). Dezirae to confirm.",
+    "ok": false
+   },
+   {
+    "label": "Facebook Page on the Jordana account",
+    "note": "Page still has to be added to the account before ads can be built",
+    "ok": false
+   },
+   {
+    "label": "Payment method on the Jordana account",
+    "note": "Dezirae is adding the card",
+    "ok": false
+   },
+   {
+    "label": "Dollar figures",
+    "note": "None available for this list ad",
+    "ok": false
+   },
+   {
+    "label": "Equal Housing and brokerage line",
+    "note": "On every graphic",
+    "ok": true
+   }
+  ],
+  "copy": [
+   {
+    "description": "Broward and Palm Beach",
+    "headline": "Which New Development Fits You?",
+    "label": "A",
+    "primary": "50+ new developments. Which one is actually yours?\n\nYou want new construction but aren't sure where to start. Take the quiz and we'll shortlist the ones worth touring. It takes about a minute.\n\nThe sales gallery works for the developer. We work for you."
+   },
+   {
+    "description": "Built around your answers",
+    "headline": "Register Before You Tour",
+    "label": "B",
+    "primary": "Don't tour a sales gallery yet.\n\nThe sales gallery works for the developer. The Premier Connection works for you. Register with us first, so your interests are protected from the first visit.\n\nTake the quiz to start. It takes about a minute."
+   },
+   {
+    "description": "Make Your Move.",
+    "headline": "We Work for You, Not the Developer",
+    "label": "C",
+    "primary": "Want new construction but don't know where to start?\n\nThere are 50+ new developments across Broward and Palm Beach. Tell us what matters most, when you'd like to move and your budget, and we'll shortlist the ones worth your time.\n\nTake the quiz. It takes about a minute."
+   }
+  ],
+  "created": "2026-11-10",
+  "creatives": [],
+  "destination": {
+   "kind": "Instant form, then South Flagler market report",
+   "url": "https://www.floridaluxurycondos.com/reports/south-flagler-drive?utm_source=meta&utm_medium=instant_form&utm_campaign=west_palm_equity_owners&utm_content=quiz"
+  },
+  "form": {
+   "name": "West Palm Equity Owners | Quiz 3",
+   "questions": [
+    {
+     "lands": "New question, not in FORM_STANDARDS yet. Zap needs updating first.",
+     "q": "What matters most in your next home?"
+    },
+    {
+     "lands": "Tag and note line Timeline",
+     "q": "How soon are you looking to make a move?"
+    },
+    {
+     "lands": "Tag",
+     "q": "Which area would you like to be in?"
+    },
+    {
+     "lands": "Note line Budget",
+     "q": "What is your budget range?"
+    },
+    {
+     "lands": "Note line TPC Lead plus standard contact fields",
+     "q": "Full name, email, phone"
+    }
+   ]
+  },
+  "rev": 1,
+  "stateNote": "Creative and copy are ready to review. The Meta campaign and ads follow once the Facebook Page is added to the Jordana The Florida Broker ad account and a payment method is added (Dezirae is adding the card).",
+  "summary": "Quiz ad: \"You want new construction. Not sure where to start?\", 50+ new developments, the sales gallery works for the developer and we work for you. Main option is a 15 second branded video with music. Alternate is a 5 card carousel of unnamed buildings (\"Which one is yours?\") with the same message. Use one or the other.",
+  "title": "New Construction Quiz",
+  "id": "pkg-wpb-equity-quiz"
+ }
+]

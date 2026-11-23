@@ -1,0 +1,154 @@
+{
+ "pkg-wpb-equity-quiz": {
+  "at": 1794608329836,
+  "by": "u_xtJT4K3X1uv7sGiLLFy9BQ",
+  "byName": "Jordana Tobel",
+  "decision": "changes",
+  "edits": [
+   {
+    "g": "primary",
+    "orig": "50+ new developments. Which one is actually yours?\n\nYou want new construction but aren't sure where to start. Take the quiz and we'll shortlist the ones worth touring. It takes about a minute.\n\nThe sales gallery works for the developer. We work for you.",
+    "text": "50+ new developments. Which one is best for you?\n\nYou want new construction but aren't sure where to start. Take the quiz and we'll shortlist the ones worth touring. It takes about a minute.\n\nThe sales gallery works for the developer. We work for you."
+   },
+   {
+    "g": "primary",
+    "orig": "Don't tour a sales gallery yet.\n\nThe sales gallery works for the developer. The Premier Connection works for you. Register with us first, so your interests are protected from the first visit.\n\nTake the quiz to start. It takes about a minute.",
+    "text": "Don't tour a sales gallery yet.\n\nThe sales gallery works for the developer. The Premier Connection works for you. Contact us first, we tell you everything the developer won't.\n\nTake the quiz to start. It takes about a minute."
+   }
+  ],
+  "note": "change wording on the \"register with us\" to \"contact us first.\" you can add in something like, we tell you everything the developer won't",
+  "picks": {
+   "description": [],
+   "headline": [],
+   "primary": []
+  },
+  "pkgId": "pkg-wpb-equity-quiz",
+  "rev": 1
+ },
+ "pkg-sage": {
+  "at": 1795128823246,
+  "by": "u_xtJT4K3X1uv7sGiLLFy9BQ",
+  "byName": "Jordana Tobel",
+  "decision": "changes",
+  "edits": [],
+  "note": "the copy isn't accurate...the historic estate is not the neighbor here, it's the view across the way. none of this says anything about ocean views either - which is key. it also feels very AI-y. did you review this first? can you try again?",
+  "picks": {
+   "description": [],
+   "headline": [],
+   "primary": [
+    "Only two homes per floor.\n44 residences. 200 linear feet on the Intracoastal. From $2,975,000*\n\nBook a private tour with The Premier Connection and get money back at closing.**\n\n*Starting price as of June 2026. Subject to change.\n**10% of the commission we receive, returned to you at closing, on eligible new-construction condos bought directly from the developer. Not a percentage of the purchase price. Terms apply.",
+    "Buying with us? Get money back.**\n\nThe Premier Connection returns 10% of the commission we receive on eligible purchases. New Intracoastal tower in Fort Lauderdale, from $2,975,000*.\n\nBook a private tour.\n\n*Starting price as of June 2026. Subject to change.\n**10% of the commission we receive, returned to you at closing, on eligible new-construction condos bought directly from the developer. Not a percentage of the purchase price. Terms apply."
+   ]
+  },
+  "pkgId": "pkg-sage",
+  "rev": 1
+ },
+ "pkg-wpb-equity-nyc-reel": {
+  "at": 1794503331712,
+  "by": "u__biIPJnxeZBiSmTQpPxQ5w",
+  "byName": "df",
+  "decision": "rejected",
+  "note": "changed direction",
+  "picks": {
+   "description": [
+    "West Palm Beach new builds",
+    "Matched by neighborhood",
+    "Make Your Move."
+   ],
+   "headline": [
+    "Your NYC Neighborhood, in Florida",
+    "Find Your West Palm Match",
+    "Take the Quiz"
+   ],
+   "primary": [
+    "Your New York neighborhood has a twin in West Palm Beach.\n\nWatch us match the Upper East Side, Tribeca, SoHo and more to new construction in West Palm Beach.\n\nThen take the quiz to find yours. It takes about a minute.",
+    "Upper East Side? Tribeca? SoHo? We found the West Palm Beach match for each.\n\nWatch us match them, then take the quiz for your shortlist. It takes about a minute.",
+    "Quiet and polished? Historic charm? Waterfront with energy?\n\nThere's a West Palm Beach match for every New York neighborhood. Watch us match each one, then take the quiz to find yours. It takes about a minute."
+   ]
+  },
+  "pkgId": "pkg-wpb-equity-nyc-reel",
+  "rev": 1,
+  "slackSent": true
+ },
+ "pkg-olara-vs-shorecrest": {
+  "at": 1795100672747,
+  "by": "u__biIPJnxeZBiSmTQpPxQ5w",
+  "byName": "df",
+  "decision": "approved",
+  "edits": [],
+  "note": "",
+  "picks": {
+   "description": [
+    "Downtown West Palm Beach waterfront",
+    "Estimated HOA from $1.13 per sq ft",
+    "Find the one that fits you best",
+    "Schedule a tour of both"
+   ],
+   "headline": [
+    "Which Tower Fits You?",
+    "Compare the HOA First",
+    "Resort or Retreat?",
+    "$7 Million, Which Tower?",
+    "Tour Both Side by Side"
+   ],
+   "primary": [
+    "You have $7 million to spend in downtown West Palm Beach. Which tower should you choose?\n\nTwo new towers on the same street. One has 275 residences and a resort-style lifestyle. The other has 98 and just four residences per floor.\n\nTour both with us and see which one fits you. The sales office works for the developer, we work for you. (But the developer pays us.) Win/win.\n\n*Estimated, based on currently available residences as of Nov. 2026. Subject to change without notice.",
+    "Before you fall for the view, compare what it costs to own it.\n\nMonthly HOA works out to about $1.13 per square foot in one waterfront tower and about $1.95 in the one next door. On a 2,500 sq ft residence, that gap adds up fast.\n\nWe'll show you both side by side. The sales office works for the developer, we work for you. (But the developer pays us.) Win/win.\n\n*Estimated, based on currently available residences as of Nov. 2026. Subject to change without notice.",
+    "Resort or retreat?\n\nOne tower has two pools, a private marina and a Jos\u00e9 Andr\u00e9s restaurant. The other keeps it intimate, with only 98 residences and four per floor.\n\nSame street in downtown West Palm Beach. Very different ways to live. Tour both with us and decide.\n\nThe sales office works for the developer, we work for you. (But the developer pays us.) Win/win.",
+    "$1,721 to $2,621 per interior sq ft in one tower. $1,534 to $2,395 in the other.\n\nThe stack and floor you choose can move the price a lot, even within the same building. We'll help you find the residence that fits your budget before you commit.\n\nThe sales office works for the developer, we work for you. (But the developer pays us.) Win/win. Let us guide you through the process.\n\n*Estimated, based on currently available residences as of Nov. 2026. Subject to change without notice.",
+    "Two new waterfront towers. One street. Completion estimated for 2028.\n\nMost buyers only see one before they decide. Tour both in the same visit with a Premier Connection specialist who represents you, and compare the views, floor plans and monthly costs side by side.\n\nThe sales office works for the developer, we work for you. (But the developer pays us.) Win/win."
+   ]
+  },
+  "pkgId": "pkg-olara-vs-shorecrest",
+  "rev": 4,
+  "slackSent": true
+ },
+ "pkg-olara-video-tour": {
+  "at": 1794607090417,
+  "by": "u_xtJT4K3X1uv7sGiLLFy9BQ",
+  "byName": "Jordana Tobel",
+  "decision": "approved",
+  "edits": [],
+  "note": "",
+  "picks": {
+   "description": [
+    "West Palm Beach Waterfront",
+    "Schedule a private tour",
+    "80,000+ sq ft of amenities",
+    "Make Your Move.",
+    "Tours with a local specialist"
+   ],
+   "headline": [
+    "A Michelin Chef Downstairs",
+    "Private Marina, Captained Boats",
+    "Resort Living, Minus the Hotel",
+    "Waterfront New Construction",
+    "Schedule a Private Tour"
+   ],
+   "primary": [
+    "A Michelin-starred chef is bringing his first Palm Beaches restaurant to the West Palm Beach waterfront. In the same building you'd live in.\n\nAn 8,500 sq ft indoor-outdoor restaurant, a gourmet marketplace, a dockside oyster bar and a juice bar. Prefer to stay in? Have it all delivered to your residence.\n\nSchedule a private tour with The Premier Connection.",
+    "A private marina, two boats and a captain are part of the amenity list at this West Palm Beach new development.\n\nChoose a fishing boat or a cruising yacht and plan a day on the water. Back on land: over 80,000 sq ft of amenities, two pools and a full spa.\n\nTour it with a specialist who represents your interests. Schedule a private tour with The Premier Connection.",
+    "A five-star resort feel, without the hotel. That's the idea behind this West Palm Beach waterfront building.\n\nA 13,000 sq ft fitness and wellness center, Pilates, yoga, trainers and instructors, with professional staff and year-round programming. Amenities built to be used.\n\nCome see how it lives. Schedule a private tour with The Premier Connection.",
+    "What does a building with a marina, a spa and Michelin-starred dining cost per month? The projected HOA is $1.13 per sq ft.*\n\nWe'll put it side by side with other new West Palm Beach developments so you can compare before you decide.\n\nSchedule a private tour with The Premier Connection.\n\n*Projected HOA per the developer's sales team. Subject to change.",
+    "Four-bedroom residences over 4,000 sq ft, with generous terraces, on the West Palm Beach waterfront.\n\nAdd a private marina, two pools, a full spa and a restaurant from a Michelin-starred chef downstairs.\n\nSchedule a private tour with The Premier Connection."
+   ]
+  },
+  "pkgId": "pkg-olara-video-tour",
+  "rev": 1
+ },
+ "pkg-viceroy-carousel": {
+  "at": 1795129004406,
+  "by": "u_xtJT4K3X1uv7sGiLLFy9BQ",
+  "byName": "Jordana Tobel",
+  "decision": "changes",
+  "edits": [],
+  "note": "i'm struggling with this process ....it's way too much to review and frankly it all feels like AI, it doesn't feel like it's been reviewed at all. please review first and then submit to me to approve. we have never used the terminology before, \"a licensed advisor\" so that doesn't feel right. please go through it and try again.",
+  "picks": {
+   "description": [],
+   "headline": [],
+   "primary": []
+  },
+  "pkgId": "pkg-viceroy-carousel",
+  "rev": 1
+ }
+}
