@@ -9,15 +9,14 @@ function groups(p) {
   return { primary: uniq(c.map(x => x.primary)), headline: uniq(c.map(x => x.headline)), description: uniq(c.map(x => x.description)) };
 }
 export default function Approvals() {
-  const [pk, setPk] = useState([]), [edits, setEdits] = useState({}), [tab, setTab] = useState('pending'), [who, setWho] = useState('Jordana'), [msg, setMsg] = useState('');
+  const [pk, setPk] = useState([]), [edits, setEdits] = useState({}), [tab, setTab] = useState('pending'), [who, setWho] = useState(''), [msg, setMsg] = useState('');
   const load = () => fetch('/api/approvals').then(r => r.json()).then(d => { setPk(d.packages); setEdits(d.edits); });
-  useEffect(() => { load(); setWho(localStorage.getItem('tpc_who') || 'Jordana'); }, []);
+  useEffect(() => { load(); fetch('/api/whoami').then(r => r.json()).then(j => setWho(j.name || '')); }, []);
   const rows = pk.filter(p => (tab === 'pending' ? ['pending', 'changes'].includes(p.status) : tab === 'active' ? ['live', 'approved'].includes(p.status) : ['paused', 'rejected'].includes(p.status)))
     .sort((a, b) => (a.status === 'changes') - (b.status === 'changes'));
   return (
     <div className="stack">
-      <div className="head"><div><h1>Ad approvals</h1><div className="sub">Who is reviewing?</div></div>
-        <select style={{ width: 160 }} value={who} onChange={e => { setWho(e.target.value); localStorage.setItem('tpc_who', e.target.value); }}><option>Jordana</option><option>Dezirae</option></select></div>
+      <div className="head"><div><h1>Ad approvals</h1><div className="sub">{who ? `Reviewing as ${who}` : ''}</div></div></div>
       <div className="tabs">{[['pending', 'Needs review'], ['active', 'Active'], ['inactive', 'Inactive']].map(([k, t]) => <button key={k} className={tab === k ? 'on' : ''} onClick={() => setTab(k)}>{t}</button>)}</div>
       {msg && <div id="toast">{msg}</div>}
       {!rows.length && <div className="card sub">{tab === 'pending' ? 'Nothing waiting for review.' : 'Nothing here.'}</div>}
